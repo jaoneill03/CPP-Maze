@@ -1,5 +1,5 @@
 // Implementation of Maze class
-// By Mary Elaine Califf and
+// By Joshua O'Neill
 
 #include "Maze.h"
 #include "DisjointSet.h"
@@ -40,7 +40,6 @@ void Maze::generateMaze()
     //cout << numCells <<endl;
 
 
-    // to do -- see assignment instructions for details
 
      while(!mazeComplete){
         int cell = rand() % numCells;//random cell
