@@ -1,5 +1,5 @@
 // Class to generate a random maze using disjoint sets and print it in ASCII format to a file
-// By Mary Elaine Califf and Joshua O'Neill
+// By  Joshua O'Neill
 #ifndef MAZE_H
 #define MAZE_H
 
